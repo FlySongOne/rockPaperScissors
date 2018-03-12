@@ -1,4 +1,6 @@
-# rockPaperScissors
+# Rock Paper Scissors
+
+A basic version of Rock Paper Scissors that a user plays against the computer in the console.
 
 ## Technologies used
 
@@ -22,6 +24,5 @@ There is no unsolved problem.
 
 ## Your biggest wins and challenges
 
-My biggest win is that I implemented the game that meets all the game requirements.
-
-One of challenges is planning of what classes and functions are needed.     
+My biggest win was that I implemented the game that met all the game requirements.
+One of the challenges was planning of what classes and functions are needed. I took some time to think about how many classes I needed and how different classes interacted with other classes. Using classes efficiently is not easy.        
